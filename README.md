@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+
 [![Robert's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kritomomo&count_private=true&show_icons=true&text_color=555&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=kritomomo&show_icons=true&text_color=555&theme=radical&count_private=true)
-</p>
 
 
 ## 🏆 GitHub Trophies
