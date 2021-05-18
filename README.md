@@ -14,10 +14,18 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hi, I'm Robert Xu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
+## 📊 Github stats
 
 [![Robert's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kritomomo&count_private=true&show_icons=true&text_color=555&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=kritomomo&show_icons=true&text_color=555&theme=radical&count_private=true)
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Robert's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kritomomo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 ## 🏆 GitHub Trophies
