@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2> Hi, I'm Robert Xu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 [![Robert's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kritomomo&count_private=true&show_icons=true&text_color=555&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
